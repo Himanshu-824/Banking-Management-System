@@ -49,14 +49,6 @@ java BankingApp
 - MySQL
 
 ---
-
-## 📸 Screenshots
-*(Add your screenshots in the folder and link them here later)*  
-![Home Page](Screenshot 2025-12-17 210319.png)
-![Results Page](Screenshot 2025-12-17 210337.png)
-
----
-
 ## 🤝 Contributing
 Contributions are welcome!
 1. Fork the project
